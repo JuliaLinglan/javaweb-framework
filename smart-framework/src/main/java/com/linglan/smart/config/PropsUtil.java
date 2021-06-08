@@ -1,6 +1,7 @@
-package com.linglan.smart.utils;
+package com.linglan.smart.config;
 
 
+import com.linglan.smart.utils.CastUtil;
 import org.slf4j.LoggerFactory;
 import org.slf4j.Logger;
 

@@ -1,5 +1,6 @@
-package com.linglan.smart.utils;
+package com.linglan.smart.classp;
 
+import com.linglan.smart.utils.StringUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

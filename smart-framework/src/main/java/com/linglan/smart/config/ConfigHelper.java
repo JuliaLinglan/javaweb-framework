@@ -1,7 +1,6 @@
 package com.linglan.smart.config;
 
 import com.linglan.smart.constants.ConfigConstant;
-import com.linglan.smart.utils.PropsUtil;
 
 import java.util.Properties;
 

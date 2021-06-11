@@ -10,6 +10,7 @@
     <modules>
         <module>smart-framework</module>
         <module>demo-framework</module>
+        <module>aop-framework</module>
     </modules>
     <!--    打包格式-->
     <packaging>pom</packaging>

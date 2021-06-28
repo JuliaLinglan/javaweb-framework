@@ -8,6 +8,7 @@ import org.springframework.cglib.proxy.MethodProxy;
 
 import java.lang.reflect.Method;
 
+//CGLibProxy
 public class CGLibProxy implements MethodInterceptor {
 
     public <T> T getProxy(Class<T> cls) {
